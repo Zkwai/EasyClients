@@ -1,6 +1,6 @@
 # Easy Clients
 
-**Easy Clients** est une application Windows qui regroupe, au même endroit, les meilleurs **éditeurs de sauvegarde** et les **codes de triche officiels** de tes jeux solo. Plus besoin de chercher le bon outil sur dix sites différents : tu choisis ton jeu, l'appli te propose l'éditeur qui va avec, l'installe proprement et sauvegarde tes fichiers avant que tu modifies quoi que ce soit.
+**Easy Clients** est une application Windows qui regroupe, au même endroit, les meilleurs **éditeurs de sauvegarde** et les **codes de triche officiels** de tes jeux solo & multijoueur . Plus besoin de chercher le bon outil sur dix sites différents : tu choisis ton jeu, l'appli te propose l'éditeur qui va avec, l'installe proprement et sauvegarde tes fichiers avant que tu modifies quoi que ce soit.
 
 [**⬇ Télécharger la dernière version**](https://github.com/Zkwai/EasyClients/releases/latest)
 

@@ -1,3 +1,4 @@
 # Easy Clients - acces testeur. Fichier gere par le bot Discord, ne pas modifier.
 # Chaque ligne est un SHA-256 de cle (les cles ne sont pas lisibles ici).
 mode=keys
+913816a11c82a02e0457cae9f763f6e2c823f199aee4df90b306778cdcf1bacc

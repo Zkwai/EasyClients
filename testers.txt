@@ -1,0 +1,3 @@
+# Easy Clients - acces testeur. Fichier gere par le bot Discord, ne pas modifier.
+# Chaque ligne est un SHA-256 de cle (les cles ne sont pas lisibles ici).
+mode=keys
